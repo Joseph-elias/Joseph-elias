@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Joseph Elias Al Khoury 👋
 
-<!--
-**Joseph-elias/Joseph-elias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/joseph-elias-al-khoury-0a54a8239/)  
 
-Here are some ideas to get you started:
+**Master's Student in AI in Health** at École Centrale de Lille | **AI in Medical Imaging Researcher** at Institut Curie
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+I’m a passionate **AI in Health** master's student, specializing in **Medical Imaging**, **Artificial Intelligence**, and **Machine Learning**. My goal is to develop cutting-edge AI solutions to advance healthcare and improve patient outcomes.
+
+### 💼 Current Focus
+- **Research Study**: Developing a radiomic and clinical signature to predict survival in lung cancer using **MRI** and **PET** images at Institut Curie.
+- Working on AI applications for **medical imaging**, leveraging radiomics and clinical data to improve diagnostic and survival prediction models.
+
+### 📚 Learning
+- **AI for Medical Imaging**: Exploring methods to enhance predictive models in healthcare.
+- **Radiomics**: Utilizing imaging data (MRI, PET) to create robust survival prediction tools for cancer patients.
+- **Deep Learning & Computer Vision**: Applying advanced techniques to medical datasets.
+
+### 🌟 Recognition
+- In-depth research in AI and radiomics for lung cancer survival prediction.
+- Contributor to projects that integrate multimodal data to improve clinical decision-making.
+
+---
+
+### 📌 Featured Projects
+- [BIOMED-E IA](https://www.lito-web.fr/fr/projets/93-biomede-ia) - Contributed to the development of AI solutions for biomedical applications, enhancing healthcare outcomes through innovative machine learning techniques.
+
+
+### 📫 Contact
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joseph-elias-al-khoury-0a54a8239/), or you can reach me via email at [josepheliaskh@gmail.com](mailto:josepheliaskh@gmail.com).
