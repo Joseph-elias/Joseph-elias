@@ -23,7 +23,7 @@ I’m a passionate **AI in Health** master's student, specializing in **Medical 
 ---
 
 ### 📌 Featured Projects
-- [BIOMED-E IA](https://www.lito-web.fr/fr/projets/93-biomede-ia) - Contributed to the development of AI solutions for biomedical applications, enhancing healthcare outcomes through innovative machine learning techniques.
+- [BIOMEDE-IA](https://www.lito-web.fr/fr/projets/93-biomede-ia) - Contributed to the development of AI solutions for biomedical applications, enhancing healthcare outcomes through innovative machine learning techniques.
 
 
 ### 📫 Contact
