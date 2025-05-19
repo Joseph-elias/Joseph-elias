@@ -21,8 +21,6 @@ I’m a passionate **AI in Health** master's student, specializing in **Medical 
 - In-depth research in AI and radiomics for lung cancer survival prediction.
 - Contributor to projects that integrate multimodal data to improve clinical decision-making.
 
---
-
 ### 📌 Featured Projects
 - [BIOMEDE-IA](https://www.lito-web.fr/fr/projets/93-biomede-ia) - Contributed to the development of AI solutions for biomedical applications, enhancing healthcare outcomes through innovative machine learning techniques.
 
