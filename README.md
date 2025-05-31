@@ -24,12 +24,6 @@ I’m a passionate **AI in Health** master's student, specializing in **Medical 
 ### 📌 Featured Projects
 - [BIOMEDE-IA](https://www.lito-web.fr/fr/projets/93-biomede-ia) - Contributed to the development of AI solutions for biomedical applications, enhancing healthcare outcomes through innovative machine learning techniques.
 
-## 📊 GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joseph-elias&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-elias&layout=compact&theme=dark)
-
 
 ### 📫 Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joseph-elias-al-khoury-0a54a8239/), or you can reach me via email at [josepheliaskh@gmail.com](mailto:josepheliaskh@gmail.com).
