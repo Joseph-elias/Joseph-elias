@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/joseph-elias-al-khoury-0a54a8239/)  
 [![Website](https://img.shields.io/badge/Website-Portfolio-green)](https://fluffy-melba-37cf19.netlify.app/)
 
-**Master's Student in AI in Health** at École Centrale de Lille | **AI in Medical Imaging Researcher** at Institut Curie
+**Master's Student in AI in Health** at École Centrale de Lille | **AI Researcher** at Institut Curie
 
 ### 👨‍💻 About Me
 I’m a passionate **AI in Health** master's student, specializing in **Artificial Intelligence**, and **Machine Learning**. My goal is to develop cutting-edge AI solutions to advance healthcare and improve patient outcomes.
@@ -17,9 +17,10 @@ I’m a passionate **AI in Health** master's student, specializing in **Artifici
 - **Radiomics**: Utilizing imaging data (MRI, PET) to create robust survival prediction tools for cancer patients.
 - **Deep Learning & Computer Vision**: Applying advanced techniques to medical datasets.
 
-### 🌟 Recognition
-- In-depth research in AI and radiomics for lung cancer survival prediction.
-- Contributor to projects that integrate multimodal data to improve clinical decision-making.
+### 🌟 Recognition  
+- **Two accepted ECR abstracts** highlighting AI-driven research  
+- Contributions to survival prediction and multimodal modelling  
+- Experience in designing and evaluating general AI pipelines for real-world problems
 
 ### 📌 Featured Projects
 - [BIOMEDE-IA](https://www.lito-web.fr/fr/projets/93-biomede-ia) - Contributed to the development of AI solutions for biomedical applications, enhancing healthcare outcomes through innovative machine learning techniques.
