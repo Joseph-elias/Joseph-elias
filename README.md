@@ -6,7 +6,7 @@
 **Master's Student in AI in Health** at École Centrale de Lille | **AI in Medical Imaging Researcher** at Institut Curie
 
 ### 👨‍💻 About Me
-I’m a passionate **AI in Health** master's student, specializing in **Medical Imaging**, **Artificial Intelligence**, and **Machine Learning**. My goal is to develop cutting-edge AI solutions to advance healthcare and improve patient outcomes.
+I’m a passionate **AI in Health** master's student, specializing in **Artificial Intelligence**, and **Machine Learning**. My goal is to develop cutting-edge AI solutions to advance healthcare and improve patient outcomes.
 
 ### 💼 Current Focus
 - **Research Study**: Developing a radiomic and clinical signature to predict survival in lung cancer using **MRI** and **PET** images at Institut Curie.
