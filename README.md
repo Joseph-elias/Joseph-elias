@@ -114,10 +114,8 @@ I’m looking for opportunities as:
 ### 📫 Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joseph-elias-al-khoury-0a54a8239/)
-[![Website](https://img.shields.io/badge/Website-Portfolio-green)](https://fluffy-melba-37cf19.netlify.app/) 
-[![Neo4j](https://img.shields.io/badge/Neo4j-Portfolio-bleu)](https://graphacademy.neo4j.com/u/c10b968d-cfc1-4f86-a8be-1c2a493ae975/)
 or reach me at [josepheliaskh@gmail.com](mailto:josepheliaskh@gmail.com)
 
 ---
 
-⭐ *I build AI systems that go beyond models — from research to production.*
+⭐ *I build AI systems that go beyond models, from research to production.*
