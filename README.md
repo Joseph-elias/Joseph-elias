@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/badge/Website-Portfolio-green)](https://joseph-elias.github.io/Portfolio-joseph/)
 [![Neo4j](https://img.shields.io/badge/Neo4j-Portfolio-blue)](https://graphacademy.neo4j.com/u/c10b968d-cfc1-4f86-a8be-1c2a493ae975/)
 
-**AI Engineer | Master's Student in AI in Health** at École Centrale de Lille
+**AI Engineer | Master in Artificial Intelligence in Health** at École Centrale de Lille
 
 ---
 
