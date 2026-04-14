@@ -17,9 +17,9 @@ I design and deploy **end-to-end AI pipelines** on multimodal data (**images, te
 
 ### 🚀 Current Focus
 
-* 🤖 Building **LLM pipelines** (summarization, semantic search, RAG systems)
-* ⚙️ Designing **production-ready AI systems** (FastAPI, Docker, vector databases)
-* 🧠 Applying AI to **healthcare**
+* 🤖 Building **AI applications** 
+* ⚙️ Designing **production-ready AI systems** (FastAPI, Docker, databases)
+
 
 ---
 
