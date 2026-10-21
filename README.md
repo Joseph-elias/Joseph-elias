@@ -2,7 +2,7 @@
 
 **AI Engineer @ [ZAKA](https://zaka.ai/) | Machine Learning • LLMs • Applied AI**
 
-🎓 Master's in Artificial Intelligence in Health — École Centrale de Lille
+🎓 Master's in Artificial Intelligence — École Centrale de Lille
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/joseph-elias-al-khoury-0a54a8239/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=github)](https://joseph-elias.github.io/Portfolio-joseph/)
